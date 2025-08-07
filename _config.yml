@@ -5,4 +5,6 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 favicon_ico: "/assets/images/GWR-Transparent-logo.ico"
 
+footer_content: ""
+
 
