@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 0
+permalink: /
 ---
 
 ![HomeScreenShot](/assets/images/HomeImage.png)
